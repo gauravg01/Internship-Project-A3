@@ -1,0 +1,57 @@
+
+.MainApp {
+    background-color: #282c34;
+    text-align: center;
+    /*display: flex;*/
+    align-items: center;
+    justify-content: space-between;
+  }
+
+
+  .headone {
+    color: #009B77;
+  }
+  
+  .App-header {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: calc(10px + 2vmin);
+  }
+  
+
+.App-head {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+  .App-link {
+    color: #61dafb;
+  }
+  
+  .card {
+    background-color: #363b45;
+    width: 25%;
+    height: 200%;
+    border-radius: 5%;
+    margin-right: 25%;
+    display: block;
+    margin-right: 25%;
+  }
+
+
+.toDoMain{
+  top: 250;
+  left: 500;
+ align-content: le;
+}
+
+.toDoMain:hover{
+  background-color: #009B77;
+}
+  
